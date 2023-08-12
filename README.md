@@ -10,12 +10,12 @@
 
 - ⚡ Fun fact **Every now and then, I manage to snap photos worthy of gracing your wallpaper. Don't believe me? Take a gander at my Unsplash gallery: https://unsplash.com/@shubhamnikam**
 
-- 📫 How to reach me **shubhamsnikam1@gmail.com**
-   <a href="https://stackoverflow.com/users/8707205/shubham-nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shubham-nikam" height="30" width="40" /></a>
-<a href="https://medium.com/@shubham-nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubham-nikam" height="30" width="40" /></a>
-<a href="https://twitter.com/shubham_nikam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_nikam1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-nikam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-nikam1" height="30" width="40" /></a>
-<a href="https://dribbble.com/shubhamnikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shubhamnikam" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://stackoverflow.com/users/8707205/shubham-nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shubham-nikam" height="30" width="40" /></a>
+    <a href="https://medium.com/@shubham-nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubham-nikam" height="30" width="40" /></a>
+    <a href="https://twitter.com/shubham_nikam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_nikam1" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/shubham-nikam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-nikam1" height="30" width="40" /></a>
+    <a href="https://dribbble.com/shubhamnikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shubhamnikam" height="30" width="40" /></a>
 </p>
 
 ---
