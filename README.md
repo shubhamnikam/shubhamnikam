@@ -2,13 +2,13 @@
 
 - 📌 A enthusiastic fullstack developer & designer from Pune, India. Presently, a Senior Software Engineer at <a href="https://www.3ds.com/" target="blank">Dassault Systemes</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubhamnikam](https://github.com/shubhamnikam)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/shubhamnikam" target="blank">GitHub | <a href="https://play.google.com/store/apps/dev?id=7363303481380926476" target="blank">Google Playstore
 
-- 📝 I regularly write articles on [https://shubham-nikam.medium.com/](https://shubham-nikam.medium.com/)
-  
+- 📝 I regularly write articles on <a href="https://medium.com/@shubham-nikam" target="blank">Medium</a>
+
 - 🌱 I’m currently learning **AWS & Golang**
 
-- ⚡ Fun fact **Every now and then, I manage to snap photos worthy of gracing your wallpaper. Don't believe me? Take a gander at my Unsplash gallery: https://unsplash.com/@shubhamnikam**
+- ⚡ Every now and then, I manage to snap photos worthy of gracing your wallpaper. <a href="https://unsplash.com/@shubhamnikam" target="blank">Checkout Unsplash</a>
 
 <p align="center">
     <a href="https://stackoverflow.com/users/8707205/shubham-nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shubham-nikam" height="30" width="40" /></a>
