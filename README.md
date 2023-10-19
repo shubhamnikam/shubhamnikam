@@ -38,6 +38,7 @@
  
   
 - 💛 Cool Projects:
+  - <a href="https://github.com/shubhamnikam/go-lang-projects" target="_blank" rel="noreferrer"> Go lang projects </a> 
   - <a href="https://github.com/shubhamnikam/Design-showcase" target="_blank" rel="noreferrer"> Design Showcase (Figma & XD) </a> 
   - <a href="https://github.com/shubhamnikam/ExploreRedisWithDotNetCore" target="_blank" rel="noreferrer"> Redis/Redis PubSub/Redis Cluster With Dotnetcore </a> 
   - <a href="https://github.com/shubhamnikam/ShimmerAnimation" target="_blank" rel="noreferrer"> Shimmer Animation Android </a>
