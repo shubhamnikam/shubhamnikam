@@ -33,7 +33,7 @@
   - Url Shortner -> <a href="https://github.com/shubhamnikam/url-shortener" target="_blank" rel="noreferrer"> Github Code </a>
   - Open Search Wrapper -> <a href="https://openai-wrapx.vercel.app/" target="_blank" rel="noreferrer"> Demo </a> | <a href="https://github.com/shubhamnikam/openai-wrapx" target="_blank" rel="noreferrer"> Github Code </a>
   - Postman Clone -> <a href="https://62482432a5c73d474948d8ef--postman-clone-basics.netlify.app/" target="_blank" rel="noreferrer"> Demo </a> | <a href="https://github.com/shubhamnikam/PostmanClone_Basic" target="_blank" rel="noreferrer"> Github Code </a>
-  -  Wish Generator -> <a href="https://wish-generator.vercel.app/" target="_blank" rel="noreferrer"> Demo </a> | Collab with @12sanket
+  -  Wish Generator -> <a href="http://ec2-15-206-72-149.ap-south-1.compute.amazonaws.com" target="_blank" rel="noreferrer"> Demo </a> | Collab with @12sanket
   - Curo Read -> <a href="https://curoread.vercel.app/" target="_blank" rel="noreferrer"> Demo </a> | Collab with @12sanket
  
   
