@@ -31,7 +31,7 @@
 
 - 💖 Web Projects:
   - Url Shortner -> <a href="https://github.com/shubhamnikam/url-shortener" target="_blank" rel="noreferrer"> Github Code </a>
-  - Backgroun Jobs -> <a href="hhttps://github.com/shubhamnikam/BackgroundJob" target="_blank" rel="noreferrer"> Github Code </a>
+  - Background Jobs -> <a href="hhttps://github.com/shubhamnikam/BackgroundJob" target="_blank" rel="noreferrer"> Github Code </a>
   - Url Shortner -> <a href="https://github.com/shubhamnikam/url-shortener" target="_blank" rel="noreferrer"> Github Code </a>
   - Reverse Proxy Using YARP -> <a href="https://github.com/shubhamnikam/yarp-reverse-proxy" target="_blank" rel="noreferrer"> Github Code </a>
   - Open Search Wrapper -> <a href="https://openai-wrapx.vercel.app/" target="_blank" rel="noreferrer"> Demo </a> | <a href="https://github.com/shubhamnikam/openai-wrapx" target="_blank" rel="noreferrer"> Github Code </a>
