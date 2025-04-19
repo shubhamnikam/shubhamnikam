@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 
-- 📌 A passionate fullstack developer & designer from Pune, India. Presently, a Senior Software Engineer at <a href="https://www.3ds.com/" target="_blank">Dassault Systemes</a>
+- 📌 A passionate Fullstack Engineer, GenAI Developer & Designer from Pune, India. Presently, a Senior Software Engineer at <a href="https://www.3ds.com/" target="_blank">Dassault Systemes</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/shubhamnikam" target="blank">GitHub | <a href="https://play.google.com/store/apps/dev?id=7363303481380926476" target="blank">Google Playstore
 
