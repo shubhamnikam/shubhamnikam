@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on <a href="https://medium.com/@shubham-nikam" target="blank">Medium</a>
 
-- 🌱 I’m currently learning **AWS & GraphQL**
+- 🌱 I’m currently learning **Go lang & GraphQL**
 
 - ⚡ Every now and then, I manage to snap photos worthy of gracing your wallpaper. <a href="https://unsplash.com/@shubhamnikam" target="blank">checkout my photos on Unsplash</a>
 
