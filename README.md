@@ -30,6 +30,7 @@
   - <a href="https://play.google.com/store/apps/details?id=com.theappnerds.wiseup" target="_blank" rel="noreferrer"> WiseUp </a> 
 
 - 💖 Web Projects:
+  - Menu Lens -> <a href="https://menu-lens.streamlit.app/" target="_blank" rel="noreferrer"> Demo </a> | <a href="https://github.com/shubhamnikam/MenuLens" target="_blank" rel="noreferrer"> Github Code </a>
   - Url Shortner -> <a href="https://github.com/shubhamnikam/url-shortener" target="_blank" rel="noreferrer"> Github Code </a> 
   - ChatAppWithSignalR (WebSocket) -> <a href="https://github.com/shubhamnikam/ChatAppWithSignalR" target="_blank" rel="noreferrer"> Github Code </a> 
   - Background Jobs -> <a href="https://github.com/shubhamnikam/BackgroundJob" target="_blank" rel="noreferrer"> Github Code </a>
